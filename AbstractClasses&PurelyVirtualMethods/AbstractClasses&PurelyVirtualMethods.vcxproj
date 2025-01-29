@@ -128,12 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Circle.h" />
+    <ClInclude Include="Ellipse.h" />
     <ClInclude Include="Employer.h" />
     <ClInclude Include="Manager.h" />
     <ClInclude Include="President.h" />
     <ClInclude Include="Rectangle.h" />
     <ClInclude Include="RightTriangle.h" />
     <ClInclude Include="Shape.h" />
+    <ClInclude Include="Square.h" />
     <ClInclude Include="Trapezoid.h" />
     <ClInclude Include="Worker.h" />
   </ItemGroup>
